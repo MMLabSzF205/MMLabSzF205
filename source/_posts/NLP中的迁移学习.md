@@ -1,7 +1,8 @@
 ---
 title: NLP中的迁移学习
 date: 2019-06-11 23:10:53
-author: 郭宇
+categories: 
+- 郭宇
 tags: 
 - 自然语言处理
 - 迁移学习
