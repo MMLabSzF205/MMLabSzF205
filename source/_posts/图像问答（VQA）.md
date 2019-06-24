@@ -1,6 +1,7 @@
 ---
 title: VQA
 date: 2019-06-23 14:00:00
+categories: 张文杰
 tags:
 ---
 
